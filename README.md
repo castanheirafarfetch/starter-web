@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Deployment!
 
 Simple web app, easy to deploy!
+
+
+### Copyrigh
+Git. Training
