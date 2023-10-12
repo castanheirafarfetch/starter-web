@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 
 Simple web app, easy to deploy!
 
+Please fork this repository
 
 ### Copyrigh
 Git. Training
